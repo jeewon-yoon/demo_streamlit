@@ -87,7 +87,7 @@ st.markdown("""
 
 try:
     # 데이터 로드
-    df = load_data('data/sunspots.csv')
+    df = load_data('C:/Users/elley/Desktop/메타코드/data/sunspots.csv')
 
     # 필터링된 데이터 - 전체 데이터 사용
     filtered_df = df
