@@ -6,3 +6,5 @@ scipy
 statsmodels
 prophet
 xgboost
+lightgbm
+torch
